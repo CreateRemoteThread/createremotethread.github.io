@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Hi!"
+date:   2025-01-05 14:07:40 +1100
+categories: bananas-in-pyjamas
+---
+New year, new blog. I hate computers, let me out.
